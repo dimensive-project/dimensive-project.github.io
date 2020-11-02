@@ -1,12 +1,15 @@
 ---
 layout:     post
-title:      New Post
-author:     Ahmet Cecen
+title:      New preprint: A unifying framework for mean field theories of asymmetric kinetic Ising systems
+author:     Miguel Aguilera
 tags: 		post template
 subtitle:  	Some Short Description of Post
 category:  publications
 ---
 <!-- Start Writing Below in Markdown -->
+
+
+This [new preprint](https://arxiv.org/abs/2002.04309) describes theoretical methods that will be applied in later stages of the project to estimate the behaviour of very large neural networks.
 
 # Table of Contents
 
