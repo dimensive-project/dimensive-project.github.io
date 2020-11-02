@@ -2,7 +2,7 @@
 layout:     post
 title:      New preprint
 author:     Miguel Aguilera
-tags:       post template
+tags:       publication
 subtitle:   Some Short Description of Post
 category:  publications
 ---
