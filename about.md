@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: "MSCA grant no 892715. Data-driven Inference of Models from Embodied Neural Systems In Vertebrate Experiments"
+description: "MSCA grant no 892715 | Data-driven Inference of Models from Embodied Neural Systems In Vertebrate Experiments"
 "header-img": "img/other-bg.jpg"
 published: true
 ---
