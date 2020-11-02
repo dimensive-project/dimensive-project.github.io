@@ -20,13 +20,13 @@ A major challenge in cognitive neuroscience is to understand how behaviour arise
         <h3 class="post-subtitle">
             {{ post.subtitle }}
         </h3>
-        {{ site.posts.last.content }}
         {% endif %}
     </a>
     <p class="post-meta" style="margin-bottom:5px">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
 	<div class="notepad-index-post-tags" style="">
 		{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
 	</div>
+	{{ site.posts.last.content }}
 </div>
 <hr>
 {% endfor %}
