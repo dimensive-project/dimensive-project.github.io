@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      New preprint
+title:      New preprint: A unifying framework for mean field theories of asymmetric kinetic Ising systems
 author:     Miguel Aguilera
 tags:       publication
 subtitle:   Some Short Description of Post
