@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: "MSCA project 892715"
-"header-img": "img/home-bg.jpg"
+"header-img": "img/other-bg.jpg"
 published: true
 ---
 
