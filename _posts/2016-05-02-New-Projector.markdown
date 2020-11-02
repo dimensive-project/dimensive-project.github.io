@@ -6,4 +6,5 @@ tags:           projector visualization template
 subtitle:    	Some Short Description of Projector
 
 dataset:    /projectors/data.json
+published: false
 ---

@@ -10,6 +10,7 @@ trans:		default # default/cube/page/concave/zoom/linear/fade/none
 
 horizontal:	</section></section><section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
 vertical:		</section><section markdown="1">
+published: false
 ---
 <section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
 ## {{ page.title }}

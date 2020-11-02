@@ -5,6 +5,7 @@ author:     Ahmet Cecen
 tags: 		post template
 subtitle:  	Some Short Description of Post
 category:  publications
+published: false
 ---
 <!-- Start Writing Below in Markdown -->
 
