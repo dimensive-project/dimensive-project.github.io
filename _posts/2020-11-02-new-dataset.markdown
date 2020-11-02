@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Asymmetric kinetic Ising model data
+title:      New dataset
 author:     Miguel Aguilera
 tags:       dataset
-subtitle:   Some Short Description of Post
+subtitle:   Datasets comprising MCMC simulations of an asymmetric SK kinetic Ising model
 category:  datasets
 ---
 <!-- Start Writing Below in Markdown -->
