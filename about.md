@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: "Why use Project Pages?"
+description: "MSCA project 892715"
 "header-img": "img/home-bg.jpg"
 published: true
 ---
