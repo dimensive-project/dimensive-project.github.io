@@ -1,13 +1,12 @@
 ---
 layout:     post
-title:      New paper
-author:     A unifying framework for mean field theories of asymmetric kinetic Ising systems
+title:      A unifying framework for mean field theories of asymmetric kinetic Ising systems
+author:     Dimensive Project
 tags:       publication
 subtitle:   Unifying methods for approximating dynamics and learning in large neural network models
 category:  publications
 ---
 <!-- Start Writing Below in Markdown -->
-
 
 In this [new paper](https://www.nature.com/articles/s41467-021-20890-5), published by Miguel Aguilera,  Amin Moosavi and Hideaki Shimazaki in Nature Communications, we  study and unify different kinetic mean-field methods in Ising models with the objective of developing tools for studying large data-sets from networks of neurons in non-equilibrium conditions and near critical and maximally fluctuating regimes. We propose a framework that integrates previous methods under an information geometric perspective. This framework also also allows us to propose new methods under atypical assuptions for mean-field methods.
 

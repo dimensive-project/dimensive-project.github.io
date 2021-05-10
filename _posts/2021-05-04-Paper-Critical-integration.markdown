@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      New paper
-author:     Critical integration in neural and cognitive systems: 
+title:      Critical integration in neural and cognitive systems
+author:     Dimensive Project
 tags:       publication
 subtitle:   Beyond power-law scaling as the hallmark of soft assembly
 category:  publications
