@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      New paper
-author:     Miguel Aguilera
+author:     A unifying framework for mean field theories of asymmetric kinetic Ising systems
 tags:       publication
-subtitle:   A unifying framework for mean field theories of asymmetric kinetic Ising systems
+subtitle:   Unifying methods for approximating dynamics and learning in large neural network models
 category:  publications
 ---
 <!-- Start Writing Below in Markdown -->
