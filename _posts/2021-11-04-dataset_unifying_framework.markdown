@@ -8,7 +8,9 @@ category:  datasets
 ---
 <!-- Start Writing Below in Markdown -->
 
-[Simulation data of asymmetric kinetic Ising models near a ferromagnetic phase transition](https://zenodo.org/record/4318983). Data used for generating the results in [Aguilera, M, Moosavi, SA & Shimazaki H (2021). A unifying framework for mean-field theories of asymmetric kinetic Ising systems. *Nature Communications* 12:1197](https://www.nature.com/articles/s41467-021-20890-5).
+Simulation data of asymmetric kinetic Ising models near a ferromagnetic phase transition [(download link)](https://zenodo.org/record/4318983). 
+
+This data can be used for generating the results in [Aguilera, M, Moosavi, SA & Shimazaki H (2021). A unifying framework for mean-field theories of asymmetric kinetic Ising systems. *Nature Communications* 12:1197](https://www.nature.com/articles/s41467-021-20890-5), as well ass for exploring ferromagnetic phase transitions in the asymmetric Sherrington-Kirkpatrick model
 
 [![CC-BY](https://img.shields.io/badge/License-CC BY-green.svg)](https://creativecommons.org/licenses/by/4.0/legalcode)
 
